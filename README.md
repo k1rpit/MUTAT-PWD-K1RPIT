@@ -7,8 +7,8 @@
 <details>
 <summary>About me </summary>
 
-My Python TG channel:https://t.me
-My repos:https://github.com
+My Python TG channel:https://t.me/k1rpit718s
+My repos:https://github.com/k1rpit?tab=repositories
 
 </details>
 =============================================================================================================
