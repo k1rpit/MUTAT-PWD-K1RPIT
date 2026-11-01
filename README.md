@@ -20,7 +20,7 @@ My repos:https://github.com/k1rpit?tab=repositories
 <details>
 <summary>Обо мне </summary>
 
-Мой Python ТГ-канал:https://t.me
-Мои репозитории:https://github.com
+Мой Python ТГ-канал:https://t.me/k1rpit718s
+Мои репозитории:https://github.com/k1rpit?tab=repositories
 
 </details>
